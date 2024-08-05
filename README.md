@@ -1,6 +1,6 @@
 # 🚀 VoiceNote: Advanced Speech-to-Text Converter
 
-![VoiceNote Demo](insert_demo_image_url_here)
+![VoiceNote Demo](https://github.com/HarviJain/VoiceNote/blob/main/Demo%20Image.png)
 
 [Live Demo](insert_live_demo_url_here)
 
