@@ -62,7 +62,7 @@ function processresult(results) {
 
 function updateStats() {
     const text = resultElement.innerText;
-    const words = text.trim().split(/\s+/).length;
+    const words = text.trim() ? text.trim().split(/\s+/).length : 0;
     const chars = text.length;
     document.getElementById("wordCount").innerText = `Words: ${words}`;
     document.getElementById("charCount").innerText = `Characters: ${chars}`;
