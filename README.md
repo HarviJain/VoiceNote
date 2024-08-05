@@ -2,7 +2,7 @@
 
 ![VoiceNote Demo](https://github.com/HarviJain/VoiceNote/blob/main/Demo%20Image.png)
 
-[Live Demo](insert_live_demo_url_here)
+[Live Demo](https://harvijain.github.io/VoiceNote/)
 
 ## ✨ Features
 
