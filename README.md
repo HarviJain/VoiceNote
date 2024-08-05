@@ -12,7 +12,7 @@ VoiceNote is a cutting-edge web application that transforms spoken words into wr
 
 - HTML5
 - CSS3 with custom properties for theming
-- Vanilla JavaScript
+- JavaScript
 - Web Speech API
   
 ### 🌐 Multi-language Support
